@@ -2,4 +2,6 @@
     <string name="app_name">Bluetooth</string>
     <string name="discover">discover</string>
     <string name="menu_pairedDevices">PairedDevices</string>
+    <string name="Discoberable">Discoverable</string>
+    <string name="Discoverable">Discoverable</string>
 </resources>
